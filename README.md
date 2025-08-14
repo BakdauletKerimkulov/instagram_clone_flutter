@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # instagram_clone_app
 
 A new Flutter project.
